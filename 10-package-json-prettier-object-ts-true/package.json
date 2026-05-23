@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "prettier": "3.0.3",
+    "typescript": "5.9.3"
+  }
+}

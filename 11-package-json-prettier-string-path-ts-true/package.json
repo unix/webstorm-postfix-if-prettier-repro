@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "prettier": "./prettier-local.json",
+  "devDependencies": {
+    "prettier": "3.0.3",
+    "typescript": "5.9.3"
+  }
+}
