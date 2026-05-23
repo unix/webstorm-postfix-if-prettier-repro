@@ -4,6 +4,8 @@
 
 In WebStorm, JavaScript/TypeScript postfix completion using `.if` may generate an unexpected `a` inside the generated `if` block when a project contains both a `package.json` file and a valid Prettier configuration.
 
+YouTrack issue: [WEB-78115](https://youtrack.jetbrains.com/issue/WEB-78115/JS-TS-postfix-.if-completion-inserts-unexpected-a-inside-generated-if-block-when-Prettier-config-is-present)
+
 This repository contains isolated test projects that document the observed boundary conditions.
 
 ## Expected Behavior
